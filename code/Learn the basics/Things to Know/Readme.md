@@ -25,13 +25,3 @@ Complete the function **printNumber** which takes an **integer input** from the 
 ### Constraints
 
 - `-1000 <= User Input <= 1000`
-
-
-
-
-```
-class Solution:
-    def printNumber(self):
-        input_num = int(input(""))
-        print(input_num)
-```
