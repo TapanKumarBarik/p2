@@ -1,0 +1,44 @@
+# Pattern 12
+
+
+## Problem
+
+Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+```text
+1       1
+12     21
+123   321
+1234 4321
+1234554321
+```
+
+Print the pattern in the function given to you.
+
+## Example 1
+
+**Input:** n = 4
+
+**Output:**
+
+```text
+1       1
+12     21
+123   321
+1234 4321
+```
+
+## Example 2
+
+**Input:** n = 2
+
+**Output:**
+
+```text
+1   1
+12 21
+```
+
+## Constraints
+
+- 1 <= n <= 100
