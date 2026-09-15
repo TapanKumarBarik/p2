@@ -21,6 +21,7 @@ Personal learning log: coding problems/patterns with solutions, plus system desi
 | Topic | Solution |
 | --- | --- |
 | [Count all Digits of a Number](<code/Learn the basics/Know Basic Maths/Count all Digits of a Number/README.md>) | [main.py](<code/Learn the basics/Know Basic Maths/Count all Digits of a Number/main.py>) |
+| [Reverse a number](<code/Learn the basics/Know Basic Maths/Reverse a number/README.md>) | [main.py](<code/Learn the basics/Know Basic Maths/Reverse a number/main.py>) |
 
 ### Build-up Logical Thinking
 
@@ -72,6 +73,9 @@ Personal learning log: coding problems/patterns with solutions, plus system desi
 | What Happens When You Enter `google.com`? | [README](<System Design/Basics/what-happens-when-you-enter-google-com/README.md>) | [Watch](https://www.youtube.com/watch?v=PyzBe6cUgNI) |
 | Relational Model in DBMS | [README](<System Design/Basics/relational-model-in-DBMS/README.md>) | [Watch](https://www.youtube.com/watch?v=Q45sr5p_NmQ) |
 | What are Database Indexes? | [README](<System Design/Basics/What are Database Indexes/README.md>) | [Watch](https://www.youtube.com/watch?v=YC50j-nozZs) |
+| What are NoSQL Databases? | [README](<System Design/Basics/What are NoSQL databases/README.md>) | [Watch](https://www.youtube.com/watch?v=0buKQHokLK8) |
+| What is Cache? | [README](<System Design/Basics/What is cache/README.md>) | [Watch](https://www.youtube.com/watch?v=kRcfCt_F_bc) |
+| What is Thrashing? | [README](<System Design/Basics/What is Thrashing/README.md>) | [Watch](https://www.youtube.com/watch?v=-sjCrT-vDXk) |
 
 ### Load Balancing
 
