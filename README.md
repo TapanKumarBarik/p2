@@ -70,6 +70,8 @@ Personal learning log: coding problems/patterns with solutions, plus system desi
 | Explain TCP Model | [README](<System Design/Basics/explain-tcp-model/README.md>) | [Watch](https://www.youtube.com/watch?v=2QGgEk20RXM) |
 | HTTP and HTTPS Protocols | [README](<System Design/Basics/http-and-https-protocols/README.md>) | [Watch](https://www.youtube.com/watch?v=MkaPJJnh5LM) |
 | What Happens When You Enter `google.com`? | [README](<System Design/Basics/what-happens-when-you-enter-google-com/README.md>) | [Watch](https://www.youtube.com/watch?v=PyzBe6cUgNI) |
+| Relational Model in DBMS | [README](<System Design/Basics/relational-model-in-DBMS/README.md>) | [Watch](https://www.youtube.com/watch?v=Q45sr5p_NmQ) |
+| What are Database Indexes? | [README](<System Design/Basics/What are Database Indexes/README.md>) | [Watch](https://www.youtube.com/watch?v=YC50j-nozZs) |
 
 ### Load Balancing
 
