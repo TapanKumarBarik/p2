@@ -1,0 +1,31 @@
+p2 — Not Started Yet
+=====================
+
+These are planned modules/sub-modules with no content yet.
+README.md only lists items that already have real content —
+this file is the backlog. When one of these gets a folder +
+README.md, move it out of here and into the README index.
+
+[Code]
+- Learn STL / Java-Collections (or similar in your language)
+- Learn Basic Hashing
+- Learn Important Sorting Techniques
+- Solve Problems on Arrays [Easy → Medium → Hard]
+- Binary Search [1D, 2D Arrays, Search Space]
+- Strings [Basic and Medium]
+- Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]
+- Recursion [PatternWise]
+- Bit Manipulation [Concepts & Problems]
+- Stack and Queues [Learning, Pre/In/Post-fix, Monotonic Stack, Implementation]
+- Sliding Window & Two Pointer Combined Problems
+- Heaps [Learning, Medium, Hard Problems]
+- Greedy Algorithms [Easy, Medium/Hard]
+- Binary Trees [Traversals, Medium and Hard Problems]
+- Binary Search Trees [Concept and Problems]
+- Graphs [Concepts & Problems]
+- Dynamic Programming [Patterns and Problems]
+- Tries
+- Strings (Advanced)
+
+[System Design]
+- Load Balancing

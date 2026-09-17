@@ -4,12 +4,13 @@
 
 ![Patterns Solved](https://img.shields.io/badge/Patterns%20Solved-22-blue)
 ![Basics Topics](https://img.shields.io/badge/Basics%20Topics-7-blueviolet)
-![Recursion Problems](https://img.shields.io/badge/Recursion%20Problems-5-9d4edd)
-![Roadmap Steps Planned](https://img.shields.io/badge/Roadmap%20Steps%20Planned-19-lightgrey)
+![Recursion Problems](https://img.shields.io/badge/Recursion%20Problems-8-9d4edd)
 ![Maths Problems](https://img.shields.io/badge/Maths%20Problems-7-orange)
 ![System Design Notes](https://img.shields.io/badge/System%20Design%20Notes-11-brightgreen)
-![Total Rows](https://img.shields.io/badge/Index%20Rows-74-lightgrey)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--16-lightgrey)
+![Total Rows](https://img.shields.io/badge/Index%20Rows-57-lightgrey)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--17-lightgrey)
+
+Only finished topics live here. Planned-but-not-started modules (the rest of the DSA roadmap, Load Balancing, etc.) are tracked in [todo.txt](todo.txt) instead — no need to touch this README for those until they actually have content.
 
 ---
 
@@ -51,38 +52,22 @@
 | 28 | 🟥 Build-up Logical Thinking → Hard | **Pattern 20** | [📄 README](<code/Learn the basics/Build-up Logical Thinking/Hard/Pattern 20/README.md>) | [🐍 main.py](<code/Learn the basics/Build-up Logical Thinking/Hard/Pattern 20/main.py>) |
 | 29 | 🟥 Build-up Logical Thinking → Hard | **Pattern 21** | [📄 README](<code/Learn the basics/Build-up Logical Thinking/Hard/Pattern 21/README.md>) | [🐍 main.py](<code/Learn the basics/Build-up Logical Thinking/Hard/Pattern 21/main.py>) |
 | 30 | 🟥 Build-up Logical Thinking → Hard | **Pattern 22** | [📄 README](<code/Learn the basics/Build-up Logical Thinking/Hard/Pattern 22/README.md>) | [🐍 main.py](<code/Learn the basics/Build-up Logical Thinking/Hard/Pattern 22/main.py>) |
-| 31 | ⬜ Learn STL / Java-Collections (or similar in your language) | — | — | 🚧 Not started yet |
-| 32 | 🟧 Know Basic Maths | **Count all Digits of a Number** | [📄 README](<code/Learn the basics/Know Basic Maths/Count all Digits of a Number/README.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Count all Digits of a Number/main.py>) |
-| 33 | 🟧 Know Basic Maths | **Reverse a Number** | [📄 README](<code/Learn the basics/Know Basic Maths/Reverse a number/README.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Reverse a number/main.py>) |
-| 34 | 🟧 Know Basic Maths | **Palindrome Number** | [📄 README](<code/Learn the basics/Know Basic Maths/Palindrome Number/README.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Palindrome Number/main.py>) |
-| 35 | 🟧 Know Basic Maths | **GCD of Two Numbers** | [📄 README](<code/Learn the basics/Know Basic Maths/GCD of Two Numbers/REDME.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/GCD of Two Numbers/main.py>) |
-| 36 | 🟧 Know Basic Maths | **Check if the Number is Armstrong** | [📄 README](<code/Learn the basics/Know Basic Maths/Check if the Number is Armstrong/README.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Check if the Number is Armstrong/main.py>) |
-| 37 | 🟧 Know Basic Maths | **Divisors of a Number** | [📄 README](<code/Learn the basics/Know Basic Maths/Divisors of a Number/README.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Divisors of a Number/main.py>) |
-| 38 | 🟧 Know Basic Maths | **Check for Prime Number** | [📄 README](<code/Learn the basics/Know Basic Maths/Check for Prime Number/REDME.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Check for Prime Number/main.py>) |
-| 39 | 🟪 Learn Basic Recursion | **Introduction to Recursion** | [📄 README](<code/Learn the basics/Learn Basic Recursion/README.md>) | Concept notes + call-stack/flow diagrams |
-| 40 | 🟪 Learn Basic Recursion | **Print 1 to N using Recursion** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Print 1 to N using Recursion/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Print 1 to N using Recursion/main.py>) |
-| 41 | 🟪 Learn Basic Recursion | **Print Name N Times using Recursion** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Print Name N times using Recursion/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Print Name N times using Recursion/main.py>) |
-| 42 | 🟪 Learn Basic Recursion | **Print N to 1 using Recursion** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Print N to 1 using Recursion/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Print N to 1 using Recursion/main.py>) |
-| 43 | 🟪 Learn Basic Recursion | **Sum of First N Numbers** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Sum of First N Numbers/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Sum of First N Numbers/main.py>) |
-| 44 | 🟪 Learn Basic Recursion | **Factorial of a Given Number** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Factorial of a given number/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Factorial of a given number/main.py>) |
-| 45 | ⬜ Learn Basic Hashing | — | — | 🚧 Not started yet |
-| 46 | ⬜ Learn Important Sorting Techniques | — | — | 🚧 Not started yet |
-| 47 | ⬜ Solve Problems on Arrays [Easy → Medium → Hard] | — | — | 🚧 Not started yet |
-| 48 | ⬜ Binary Search [1D, 2D Arrays, Search Space] | — | — | 🚧 Not started yet |
-| 49 | ⬜ Strings [Basic and Medium] | — | — | 🚧 Not started yet |
-| 50 | ⬜ Learn LinkedList [Single LL, Double LL, Medium, Hard Problems] | — | — | 🚧 Not started yet |
-| 51 | ⬜ Recursion [PatternWise] | — | — | 🚧 Not started yet |
-| 52 | ⬜ Bit Manipulation [Concepts & Problems] | — | — | 🚧 Not started yet |
-| 53 | ⬜ Stack and Queues [Learning, Pre/In/Post-fix, Monotonic Stack, Implementation] | — | — | 🚧 Not started yet |
-| 54 | ⬜ Sliding Window & Two Pointer Combined Problems | — | — | 🚧 Not started yet |
-| 55 | ⬜ Heaps [Learning, Medium, Hard Problems] | — | — | 🚧 Not started yet |
-| 56 | ⬜ Greedy Algorithms [Easy, Medium/Hard] | — | — | 🚧 Not started yet |
-| 57 | ⬜ Binary Trees [Traversals, Medium and Hard Problems] | — | — | 🚧 Not started yet |
-| 58 | ⬜ Binary Search Trees [Concept and Problems] | — | — | 🚧 Not started yet |
-| 59 | ⬜ Graphs [Concepts & Problems] | — | — | 🚧 Not started yet |
-| 60 | ⬜ Dynamic Programming [Patterns and Problems] | — | — | 🚧 Not started yet |
-| 61 | ⬜ Tries | — | — | 🚧 Not started yet |
-| 62 | ⬜ Strings (Advanced) | — | — | 🚧 Not started yet |
+| 31 | 🟧 Know Basic Maths | **Count all Digits of a Number** | [📄 README](<code/Learn the basics/Know Basic Maths/Count all Digits of a Number/README.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Count all Digits of a Number/main.py>) |
+| 32 | 🟧 Know Basic Maths | **Reverse a Number** | [📄 README](<code/Learn the basics/Know Basic Maths/Reverse a number/README.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Reverse a number/main.py>) |
+| 33 | 🟧 Know Basic Maths | **Palindrome Number** | [📄 README](<code/Learn the basics/Know Basic Maths/Palindrome Number/README.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Palindrome Number/main.py>) |
+| 34 | 🟧 Know Basic Maths | **GCD of Two Numbers** | [📄 README](<code/Learn the basics/Know Basic Maths/GCD of Two Numbers/REDME.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/GCD of Two Numbers/main.py>) |
+| 35 | 🟧 Know Basic Maths | **Check if the Number is Armstrong** | [📄 README](<code/Learn the basics/Know Basic Maths/Check if the Number is Armstrong/README.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Check if the Number is Armstrong/main.py>) |
+| 36 | 🟧 Know Basic Maths | **Divisors of a Number** | [📄 README](<code/Learn the basics/Know Basic Maths/Divisors of a Number/README.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Divisors of a Number/main.py>) |
+| 37 | 🟧 Know Basic Maths | **Check for Prime Number** | [📄 README](<code/Learn the basics/Know Basic Maths/Check for Prime Number/REDME.md>) | [🐍 main.py](<code/Learn the basics/Know Basic Maths/Check for Prime Number/main.py>) |
+| 38 | 🟪 Learn Basic Recursion | **Introduction to Recursion** | [📄 README](<code/Learn the basics/Learn Basic Recursion/README.md>) | Concept notes + call-stack/flow diagrams |
+| 39 | 🟪 Learn Basic Recursion | **Print 1 to N using Recursion** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Print 1 to N using Recursion/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Print 1 to N using Recursion/main.py>) |
+| 40 | 🟪 Learn Basic Recursion | **Print Name N Times using Recursion** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Print Name N times using Recursion/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Print Name N times using Recursion/main.py>) |
+| 41 | 🟪 Learn Basic Recursion | **Print N to 1 using Recursion** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Print N to 1 using Recursion/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Print N to 1 using Recursion/main.py>) |
+| 42 | 🟪 Learn Basic Recursion | **Sum of First N Numbers** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Sum of First N Numbers/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Sum of First N Numbers/main.py>) |
+| 43 | 🟪 Learn Basic Recursion | **Factorial of a Given Number** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Factorial of a given number/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Factorial of a given number/main.py>) |
+| 44 | 🟪 Learn Basic Recursion | **Reverse an Array** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Reverse an array/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Reverse an array/main.py>) |
+| 45 | 🟪 Learn Basic Recursion | **Check if String is Palindrome or Not** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Check if String is Palindrome or Not/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Check if String is Palindrome or Not/main.py>) |
+| 46 | 🟪 Learn Basic Recursion | **Fibonacci Number** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Fibonacci Number/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Fibonacci Number/main.py>) |
 
 ---
 
@@ -101,8 +86,7 @@
 | 9 | 🟩 Basics | **What are NoSQL Databases?** | [📄 README](<System Design/Basics/What are NoSQL databases/README.md>) | [📺 YouTube](https://www.youtube.com/watch?v=0buKQHokLK8) |
 | 10 | 🟩 Basics | **What is Cache?** | [📄 README](<System Design/Basics/What is cache/README.md>) | [📺 YouTube](https://www.youtube.com/watch?v=kRcfCt_F_bc) |
 | 11 | 🟩 Basics | **What is Thrashing?** | [📄 README](<System Design/Basics/What is Thrashing/README.md>) | [📺 YouTube](https://www.youtube.com/watch?v=-sjCrT-vDXk) |
-| 12 | ⬜ Load Balancing | — | — | 🚧 Not started yet |
 
 ---
 
-<sub>Synced through commit `28be003` · 2026-09-16</sub>
+<sub>Synced through commit `37d555a` · 2026-09-17</sub>
