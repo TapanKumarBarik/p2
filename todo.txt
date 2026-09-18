@@ -8,7 +8,6 @@ README.md, move it out of here and into the README index.
 
 [Code]
 - Learn STL / Java-Collections (or similar in your language)
-- Learn Basic Hashing
 - Learn Important Sorting Techniques
 - Solve Problems on Arrays [Easy → Medium → Hard]
 - Binary Search [1D, 2D Arrays, Search Space]

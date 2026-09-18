@@ -5,10 +5,11 @@
 ![Patterns Solved](https://img.shields.io/badge/Patterns%20Solved-22-blue)
 ![Basics Topics](https://img.shields.io/badge/Basics%20Topics-7-blueviolet)
 ![Recursion Problems](https://img.shields.io/badge/Recursion%20Problems-8-9d4edd)
+![Hashing Problems](https://img.shields.io/badge/Hashing%20Problems-3-795548)
 ![Maths Problems](https://img.shields.io/badge/Maths%20Problems-7-orange)
-![System Design Notes](https://img.shields.io/badge/System%20Design%20Notes-11-brightgreen)
-![Total Rows](https://img.shields.io/badge/Index%20Rows-57-lightgrey)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--17-lightgrey)
+![System Design Notes](https://img.shields.io/badge/System%20Design%20Notes-12-brightgreen)
+![Total Rows](https://img.shields.io/badge/Index%20Rows-61-lightgrey)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--18-lightgrey)
 
 Only finished topics live here. Planned-but-not-started modules (the rest of the DSA roadmap, Load Balancing, etc.) are tracked in [todo.txt](todo.txt) instead — no need to touch this README for those until they actually have content.
 
@@ -68,6 +69,9 @@ Only finished topics live here. Planned-but-not-started modules (the rest of the
 | 44 | 🟪 Learn Basic Recursion | **Reverse an Array** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Reverse an array/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Reverse an array/main.py>) |
 | 45 | 🟪 Learn Basic Recursion | **Check if String is Palindrome or Not** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Check if String is Palindrome or Not/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Check if String is Palindrome or Not/main.py>) |
 | 46 | 🟪 Learn Basic Recursion | **Fibonacci Number** | [📄 README](<code/Learn the basics/Learn Basic Recursion/Fibonacci Number/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Recursion/Fibonacci Number/main.py>) |
+| 47 | 🟫 Learn Basic Hashing | **Basic Hashing** | [📄 README](<code/Learn the basics/Learn Basic Hashing/Basic Hashing/README.md>) | Concept notes only — no code |
+| 48 | 🟫 Learn Basic Hashing | **Counting Frequencies of Array Elements** | [📄 README](<code/Learn the basics/Learn Basic Hashing/Counting Frequencies of Array Elements/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Hashing/Counting Frequencies of Array Elements/main.py>) |
+| 49 | 🟫 Learn Basic Hashing | **Highest Occurring Element in an Array** | [📄 README](<code/Learn the basics/Learn Basic Hashing/Highest Occurring Element in an Array/README.md>) | [🐍 main.py](<code/Learn the basics/Learn Basic Hashing/Highest Occurring Element in an Array/main.py>) |
 
 ---
 
@@ -86,7 +90,8 @@ Only finished topics live here. Planned-but-not-started modules (the rest of the
 | 9 | 🟩 Basics | **What are NoSQL Databases?** | [📄 README](<System Design/Basics/What are NoSQL databases/README.md>) | [📺 YouTube](https://www.youtube.com/watch?v=0buKQHokLK8) |
 | 10 | 🟩 Basics | **What is Cache?** | [📄 README](<System Design/Basics/What is cache/README.md>) | [📺 YouTube](https://www.youtube.com/watch?v=kRcfCt_F_bc) |
 | 11 | 🟩 Basics | **What is Thrashing?** | [📄 README](<System Design/Basics/What is Thrashing/README.md>) | [📺 YouTube](https://www.youtube.com/watch?v=-sjCrT-vDXk) |
+| 12 | 🟩 Basics | **Difference Between Program, Process, and Thread** | [📄 README](<System Design/Basics/Difference_Between_Program_Process_and_Thread/README.md>) | [📺 YouTube](https://www.youtube.com/watch?v=5Ge2vDe3T74) |
 
 ---
 
-<sub>Synced through commit `37d555a` · 2026-09-17</sub>
+<sub>Synced through commit `355e32f` · 2026-09-18</sub>
