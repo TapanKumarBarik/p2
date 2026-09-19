@@ -58,3 +58,6 @@ nums = [3, 2, 3, 4, 5]
 - `1 <= nums.length <= 1000`
 - `-10^4 <= nums[i] <= 10^4`
 - `nums[i]` may contain duplicate values.
+
+
+![alt text](image.png)
