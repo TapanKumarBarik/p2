@@ -1,13 +1,19 @@
 class Solution:
     def selectionSort(self, nums):
+        index = 0
         n = len(nums)
-        for i in range (1,n):
-            if nums[i-1]>nums[i]:
-                j = i
-                while j>0:
-                    if nums[j-1]>nums[j]:
-                        nums[j-1],nums[j] = nums[j],nums[j-1]
-                    j-=1
+        for i in range(n):
+            curr_min=nums[i]
+            swap_required = False
+            for j in range(i,n,1):
+                if nums[j]<curr_min:
+                    curr_min=nums[j]
+                    index = j
+                    swap_required = True
+            if swap_required:
+                temp = nums[i]
+                nums[i]=curr_min
+                nums[index] = temp
         return nums
 
 
