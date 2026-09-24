@@ -1,2 +1,8 @@
 ai/roadmap.md
 ai/todo.md
+# text_to_image: multi-GB model files, the sd-cli program, and generated images
+ai/text_to_image/models/
+ai/text_to_image/sd/
+ai/text_to_image/sd-vulkan/
+ai/text_to_image/outputs/
+ai/text_to_image/.venv/

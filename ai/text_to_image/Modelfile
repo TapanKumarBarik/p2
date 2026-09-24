@@ -1,0 +1,1 @@
+FROM ./models/flux2-klein-4b-uncensored-q4_k_m.gguf

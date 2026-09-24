@@ -1,0 +1,27 @@
+# Streamlit reads this when you run `streamlit run app.py` from the ai/text_to_image folder.
+
+[client]
+toolbarMode = "minimal"      # hide the Deploy button and developer menu
+
+[browser]
+gatherUsageStats = false     # Streamlit sends usage statistics by default; keep everything local
+
+[theme]
+baseRadius = "0.6rem"
+showWidgetBorder = true
+showSidebarBorder = true
+
+# Follows the computer's light/dark setting
+[theme.light]
+primaryColor = "#4F46E5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F5F8"
+textColor = "#1F2330"
+borderColor = "#E3E5EB"
+
+[theme.dark]
+primaryColor = "#818CF8"
+backgroundColor = "#0F1117"
+secondaryBackgroundColor = "#1A1D26"
+textColor = "#E6E8EE"
+borderColor = "#2B2F3B"
