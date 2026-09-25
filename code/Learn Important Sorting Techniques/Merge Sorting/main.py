@@ -1,39 +1,40 @@
 class Solution:
     def mergeSort(self, nums):
+
         n = len(nums)
-        self.merge_sort_helper(nums,0, n-1)
-        return nums
-    def merge_sort_helper(self,nums, start, end ):
-        if start>=end:
-            return 
+        # for lenght 1 or empty array
+        if n<=1:
+            return nums
         
-        mid = (start+end)//2
+        mid = n//2
 
-        self.merge_sort_helper(nums, start, mid)
-        self.merge_sort_helper(nums, mid+1, end)
-        self.merge(nums,start, mid, end)
+        left_array = self.mergeSort(nums[:mid])
+        right_array = self.mergeSort(nums[mid:])
+        return self.merge(left_array, right_array)
+        
     
-    def merge(self, nums, start, mid ,end):
-        temp =[]
-        low = start
-        right = mid+1
-        while start<=mid and right<=end:
-            if nums[start]<=nums[right]:
-                temp.append(nums[start])
-                start+=1
+    def merge(self, left_array,right_array):
+        n = len(left_array)
+        m = len(right_array)
+        i = 0
+        j = 0
+        res =[]
+
+        while i<n and j<m:
+            if left_array[i]<=right_array[j]:
+                res.append(left_array[i])
+                i+=1
             else:
-                temp.append(nums[right])
-                right+=1
+                res.append(right_array[j])
+                j+=1
+        while i<n:
+            res.append(left_array[i])
+            i+=1
+        while j<m:
+            res.append(right_array[j])
+            j+=1
+        return res
 
-        while start<=mid:
-            temp.append(nums[start])
-            start+=1
-        while right<=end:
-            temp.append(nums[right])
-            right+=1
-
-        for i in range(low, end+1):
-            nums[i]= temp[i-low]
             
             
 solution = Solution()
