@@ -20,13 +20,6 @@ Given an array of integers `nums`, return the second-largest element in the arra
 
 ---
 
-**Still unsure what the problem is asking?**
-Let's go through a few more examples, step by step, to make it clearer.
-
-[Explain problem]
-
----
-
 ## Constraints:
 
 - `1 <= nums.length <= 10^5`

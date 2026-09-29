@@ -24,26 +24,6 @@ The elements in the leader array must appear in the **order they appear** in the
 
 ---
 
-### Now Your Turn!
-
-Pick the correct output for the given input
-
-**Input:** `nums = [-3, 4, 5, 1, -30, -10]`
-
-- [ ] `[-3, 4, 5]`
-- [ ] `[5, 1, -30]`
-- [x] **`[5, 1, -10]`** ✅
-- [ ] `[5, -10, 1]`
-
----
-
-**Still unsure what the problem is asking?**
-Let's go through a few more examples, step by step, to make it clearer.
-
-[Explain problem]
-
----
-
 ## Constraints:
 
 - `1 <= nums.length <= 10^5`
