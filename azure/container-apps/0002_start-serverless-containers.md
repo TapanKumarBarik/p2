@@ -25,3 +25,29 @@ As your containers evolve, Azure Container Apps stores each change as a revision
 ## Summary
 
 Azure Container Apps helps you run containerized apps with automatic scaling, strong security, monitoring, flexible deployment options, and easy rollback support.
+
+
+
+
+#  Build and deploy from local source code to Azure Container Apps
+
+
+export RESOURCE_GROUP="album-containerapps"
+export LOCATION="canadacentral"
+export ENVIRONMENT="env-album-containerapps"
+export API_NAME="album-api"
+
+git clone https://github.com/azure-samples/containerapps-albumapi-python.git
+cd containerapps-albumapi-python/src
+
+az group create --name $RESOURCE_GROUP --location $LOCATION
+
+az containerapp up \
+  --name $API_NAME \
+  --resource-group $RESOURCE_GROUP \
+  --location $LOCATION \
+  --environment $ENVIRONMENT \
+  --source .
+
+
+az group delete --name $RESOURCE_GROUP
