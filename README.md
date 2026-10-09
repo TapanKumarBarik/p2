@@ -8,12 +8,12 @@
 ![Hashing Problems](https://img.shields.io/badge/Hashing%20Problems-3-795548)
 ![Maths Problems](https://img.shields.io/badge/Maths%20Problems-10-orange)
 ![System Design Notes](https://img.shields.io/badge/System%20Design%20Notes-12-brightgreen)
-![Total Rows](https://img.shields.io/badge/Index%20Rows-95-lightgrey)
+![Total Rows](https://img.shields.io/badge/Index%20Rows-104-lightgrey)
 ![Sorting Techniques](https://img.shields.io/badge/Sorting%20Techniques-6-1e88e5)
 ![Array Problems](https://img.shields.io/badge/Array%20Problems-3-fb8c00)
 ![String Problems](https://img.shields.io/badge/String%20Problems-8-1976d2)
-![Solve Problems on Arrays](https://img.shields.io/badge/Solve%20Problems%20on%20Arrays-14-2ecc71)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--29-lightgrey)
+![Solve Problems on Arrays](https://img.shields.io/badge/Solve%20Problems%20on%20Arrays-23-2ecc71)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--08-lightgrey)
 
 Only finished topics live here. Planned-but-not-started modules (the rest of the DSA roadmap, Load Balancing, etc.) are tracked in [todo.txt](todo.txt) instead — no need to touch this README for those until they actually have content.
 
@@ -110,6 +110,15 @@ Only finished topics live here. Planned-but-not-started modules (the rest of the
 | 81 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **Majority Element I** | [📄 README](<code/0003_Arrays/0003_faq_m/Majority Element-I/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/Majority Element-I/main.py>) |
 | 82 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **Leaders in an Array** | [📄 README](<code/0003_Arrays/0003_faq_m/Leaders in an Array/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/Leaders in an Array/main.py>) |
 | 83 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **Rearrange Array Elements by Sign** | [📄 README](<code/0003_Arrays/0003_faq_m/Rearrange array elements by sign/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/Rearrange array elements by sign/main.py>) |
+| 84 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **Print the Matrix in Spiral Manner** | [📄 README](<code/0003_Arrays/0003_faq_m/Print the matrix in spiral manner/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/Print the matrix in spiral manner/main.py>) |
+| 85 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **Pascal's Triangle I** | [📄 README](<code/0003_Arrays/0003_faq_m/Pascal's Triangle I/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/Pascal's Triangle I/main.py>) |
+| 86 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **Pascal's Triangle II** | [📄 README](<code/0003_Arrays/0003_faq_m/Pascal's Triangle II/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/Pascal's Triangle II/main.py>) |
+| 87 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **Pascal's Triangle III** | [📄 README](<code/0003_Arrays/0003_faq_m/Pascal's Triangle III/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/Pascal's Triangle III/main.py>) |
+| 88 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **Rotate Matrix by 90 Degrees** | [📄 README](<code/0003_Arrays/0003_faq_m/Rotate matrix by 90 degrees/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/Rotate matrix by 90 degrees/main.py>) |
+| 89 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **Set Matrix Zeroes** | [📄 README](<code/0003_Arrays/0003_faq_m/Set Matrix Zeroes/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/Set Matrix Zeroes/main.py>) |
+| 90 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **Two Sum** | [📄 README](<code/0003_Arrays/0003_faq_m/Two Sum/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/Two Sum/main.py>) |
+| 91 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **3 Sum** | [📄 README](<code/0003_Arrays/0003_faq_m/3 Sum/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/3 Sum/main.py>) |
+| 92 | 🔴 Solve Problems on Arrays → FAQs [Medium] | **4 Sum** | [📄 README](<code/0003_Arrays/0003_faq_m/4 Sum/README.md>) | [🐍 main.py](<code/0003_Arrays/0003_faq_m/4 Sum/main.py>) |
 
 ---
 
@@ -132,4 +141,4 @@ Only finished topics live here. Planned-but-not-started modules (the rest of the
 
 ---
 
-<sub>Synced through commit `5311229` · 2026-09-29</sub>
+<sub>Synced through commit `d7c7ac5` · 2026-10-08</sub>
